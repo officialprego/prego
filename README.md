@@ -7,7 +7,7 @@ Un gioco onorevole che celebra la gentilezza.
 
   **Castare**: atto di dire “Prego!“ con fare cordiale, indicando una Porta (vedi “Porta”), ad essa verrà associato un Cast.
 
-  **Crossare**: crossa chi, proiettando la traiettoria dal punto di contatto iniziale al finale dei piedi sul suolo sul piano tangente (denominato π) al pavimento e contenente il segmento/porta castato, interseca il suddetto segmento con la proiezione; inoltre i punti, iniziale e finale, devono giacere su due semipiani differenti di π (individuati dal segmento/porta) per essere definito crossing. Non valido per il crosser se ha già due punti di contatto in due semipiani differenti sopra definiti. 
+  **Crossare**: crossa chi, proiettando la traiettoria dal punto di contatto iniziale al finale dei piedi sul suolo sul piano tangente (denominato π) al pavimento e contenente il segmento/porta castato, interseca il suddetto segmento con la proiezione; inoltre i punti, iniziale e finale, devono giacere su due semipiani differenti di π (individuati dal segmento/porta) per essere definito crossing. Non valido per il crosser se,al momento del casting, ha già due punti di contatto in due semipiani differenti sopra definiti. 
 
   **Onore**: numero intero associato ad ogni partecipante, a partire da 0 al momento dell'inclusione al gioco. La somma totale dei punti dei pertecipanti deve essere 0. 
 
